@@ -50,15 +50,6 @@ I’m constantly sharpening my skills in data storytelling and advanced analytic
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaushalkumar97&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushalkumar97&layout=compact&theme=radical" width="40%" />
-</p>
-
----
-
 ## 🌐 Let's Connect
 
 📫 Email: **kaushalgandla@gmail.com**  
